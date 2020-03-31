@@ -1,0 +1,4 @@
+scrapy startproject example
+$ cd example
+
+scrapy genspider country example.webscraping.com --template=crawl（爬虫名 、 域名 以及可选的模板参数）
