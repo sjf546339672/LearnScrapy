@@ -5,6 +5,20 @@
     <orderEntry type="jdk" jdkName="Python 3.6.4 virtualenv at E:\demo\MyProject\AllEnv\scrapy-env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/Book1/example" />
+        <option value="$MODULE_DIR$/Book1/example/example" />
+        <option value="$MODULE_DIR$/Book1" />
+        <option value="$MODULE_DIR$/Book1/houses" />
+        <option value="$MODULE_DIR$/Book1/example/example/spiders" />
+        <option value="$MODULE_DIR$/Book1/toscrape_book/toscrape_book" />
+        <option value="$MODULE_DIR$/Book1/toscrape_book/toscrape_book/spiders" />
+        <option value="$MODULE_DIR$/Book1/toscrape_book" />
+      </list>
+    </option>
+  </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
   </component>
