@@ -16,6 +16,10 @@
         <option value="$MODULE_DIR$/Book1/toscrape_book/toscrape_book" />
         <option value="$MODULE_DIR$/Book1/toscrape_book/toscrape_book/spiders" />
         <option value="$MODULE_DIR$/Book1/toscrape_book" />
+        <option value="$MODULE_DIR$/Book1/so_image" />
+        <option value="$MODULE_DIR$/Book1/so_image/download_images" />
+        <option value="$MODULE_DIR$/Book1/so_image/so_image" />
+        <option value="$MODULE_DIR$/Book1/so_image/so_image/spiders" />
       </list>
     </option>
   </component>
