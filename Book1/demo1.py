@@ -31,22 +31,5 @@ def crawl_sitemap(url):
 
 print(crawl_sitemap("http://example.webscrping.com/sitemap.xml"))
 
-"""
-
-     
-deal_gitlab_api()
-"""
-
-
-
-
-
-
-
-
-
-
-
-
 
 
