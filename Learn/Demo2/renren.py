@@ -64,9 +64,3 @@ print(response_index.read())
 
 
 
-
-
-
-
-
-
