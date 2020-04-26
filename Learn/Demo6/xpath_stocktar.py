@@ -21,3 +21,5 @@ def download(url):
 # 基金代码	基金简称	单位净值	  累计净值	日增长额 	日增长率 	申购 	赎回
 download("http://quote.stockstar.com/fund/open.shtml")
 
+import ssl
+ssl._create_unverified_context()  # 忽略安全 https
