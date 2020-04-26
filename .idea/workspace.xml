@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="999c7991-94b1-4ee4-b9f0-d19b5e34ca97" name="Default" comment="" />
+    <list default="true" id="999c7991-94b1-4ee4-b9f0-d19b5e34ca97" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo6/xpath_stocktar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/知识点.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/LearnScrapy.iml" afterPath="$PROJECT_DIR$/.idea/LearnScrapy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,53 +16,54 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/LearnScrapy$1_dedecms.coverage" NAME="1.dedecms Coverage Results" MODIFIED="1587092813002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay3/code" />
     <SUITE FILE_PATH="coverage/LearnScrapy$renren.coverage" NAME="renren Coverage Results" MODIFIED="1587349317015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
     <SUITE FILE_PATH="coverage/LearnScrapy$cached.coverage" NAME="cached Coverage Results" MODIFIED="1587458713155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo3" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$51job_xpath.coverage" NAME="51job_xpath Coverage Results" MODIFIED="1587799475815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1585647075555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$xpath_stocktar.coverage" NAME="xpath_stocktar Coverage Results" MODIFIED="1587907619780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$10down.coverage" NAME="10down Coverage Results" MODIFIED="1587092299780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1587781243902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo5" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$1_debug.coverage" NAME="1.debug Coverage Results" MODIFIED="1587091939673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code/cookie" />
     <SUITE FILE_PATH="coverage/LearnScrapy$3_51jobTest.coverage" NAME="3.51jobTest Coverage Results" MODIFIED="1586852984021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/51job" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$7ajax_douban.coverage" NAME="7ajax_douban Coverage Results" MODIFIED="1587092285015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$1_.coverage" NAME="1.绘图 Coverage Results" MODIFIED="1587115897027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZday4/code/zhaopin/draw" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$1.coverage" NAME="1回顾正则 Coverage Results" MODIFIED="1586851432031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/zhaopin" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$51job_xpath.coverage" NAME="51job_xpath Coverage Results" MODIFIED="1587799475815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1586832510622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book2" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1586965637038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
     <SUITE FILE_PATH="coverage/LearnScrapy$5post_lagou.coverage" NAME="5post_lagou Coverage Results" MODIFIED="1587007531423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$1_51job.coverage" NAME="1.51job正则 Coverage Results" MODIFIED="1586851852454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/51job" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$zhaopin.coverage" NAME="zhaopin Coverage Results" MODIFIED="1587520278243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo3" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$download_picture.coverage" NAME="download_picture Coverage Results" MODIFIED="1587092603169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$51jb.coverage" NAME="51jb Coverage Results" MODIFIED="1586879510858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo1" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$1_dedecms.coverage" NAME="1.dedecms Coverage Results" MODIFIED="1587092813002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay3/code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$12https.coverage" NAME="12https Coverage Results" MODIFIED="1587108560918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$2.coverage" NAME="2根据链接抓取数量 Coverage Results" MODIFIED="1586851555018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/zhaopin" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$2_51job.coverage" NAME="2.51job Coverage Results" MODIFIED="1586852893499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/51job" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1587113635538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2/yanzhengma" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$pytesseract.coverage" NAME="pytesseract Coverage Results" MODIFIED="1587112086389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AllEnv/scrapy-env/Lib/site-packages/pytesseract" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$huitu.coverage" NAME="huitu Coverage Results" MODIFIED="1587651799552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo4" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1585039147501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
     <SUITE FILE_PATH="coverage/LearnScrapy$zhilian.coverage" NAME="zhilian Coverage Results" MODIFIED="1587117051914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$6post_cgi.coverage" NAME="6post_cgi Coverage Results" MODIFIED="1587007508998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
     <SUITE FILE_PATH="coverage/LearnScrapy$1makepages.coverage" NAME="1makepages Coverage Results" MODIFIED="1587093851484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay3/code/zhaopin" />
     <SUITE FILE_PATH="coverage/LearnScrapy$train_lxml.coverage" NAME="train_lxml Coverage Results" MODIFIED="1587797660979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$51jb.coverage" NAME="51jb Coverage Results" MODIFIED="1586879510858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo1" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$2_.coverage" NAME="2.职位数量绘图 Coverage Results" MODIFIED="1587115859796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZday4/code/zhaopin/draw" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$7ajax_douban.coverage" NAME="7ajax_douban Coverage Results" MODIFIED="1587092285015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1587116346610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$train.coverage" NAME="train Coverage Results" MODIFIED="1587797675039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
     <SUITE FILE_PATH="coverage/LearnScrapy$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1585038664694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$6post_cgi.coverage" NAME="6post_cgi Coverage Results" MODIFIED="1587007508998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$10down.coverage" NAME="10down Coverage Results" MODIFIED="1587092299780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$test.coverage" NAME="test Coverage Results" MODIFIED="1586832510622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book2" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$2_51job.coverage" NAME="2.51job Coverage Results" MODIFIED="1586852893499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/51job" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$train_lxml__1_.coverage" NAME="train_lxml (1) Coverage Results" MODIFIED="1587797828015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$12https.coverage" NAME="12https Coverage Results" MODIFIED="1587108560918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$tieba.coverage" NAME="tieba Coverage Results" MODIFIED="1587781243902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo5" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1585647075555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
     <SUITE FILE_PATH="coverage/LearnScrapy$1_urllib2_getdata.coverage" NAME="1.urllib2_getdata Coverage Results" MODIFIED="1586851780142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code" />
     <SUITE FILE_PATH="coverage/LearnScrapy$3_51jobTest__1_.coverage" NAME="3.51jobTest (1) Coverage Results" MODIFIED="1586878252522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/爬虫/SZDay1/python2code/51job" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$1_.coverage" NAME="1.绘图 Coverage Results" MODIFIED="1587115897027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZday4/code/zhaopin/draw" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$1_debug.coverage" NAME="1.debug Coverage Results" MODIFIED="1587091939673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code/cookie" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$train.coverage" NAME="train Coverage Results" MODIFIED="1587797675039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$pytesseract.coverage" NAME="pytesseract Coverage Results" MODIFIED="1587112086389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AllEnv/scrapy-env/Lib/site-packages/pytesseract" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$1.coverage" NAME="1回顾正则 Coverage Results" MODIFIED="1586851432031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/zhaopin" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$download_picture.coverage" NAME="download_picture Coverage Results" MODIFIED="1587092603169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
     <SUITE FILE_PATH="coverage/LearnScrapy$demo2__1_.coverage" NAME="demo2 (1) Coverage Results" MODIFIED="1586262019880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1587116346610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$2.coverage" NAME="2根据链接抓取数量 Coverage Results" MODIFIED="1586851555018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/zhaopin" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1586965637038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1587113635538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2/yanzhengma" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$huitu.coverage" NAME="huitu Coverage Results" MODIFIED="1587651799552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo4" />
     <SUITE FILE_PATH="coverage/LearnScrapy$2readcookie.coverage" NAME="2readcookie Coverage Results" MODIFIED="1587091969456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZDay2/python2code/cookie" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$1_51job.coverage" NAME="1.51job正则 Coverage Results" MODIFIED="1586851852454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python2code/51job" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$2_.coverage" NAME="2.职位数量绘图 Coverage Results" MODIFIED="1587115859796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/pachong/SZday4/code/zhaopin/draw" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$zhaopin.coverage" NAME="zhaopin Coverage Results" MODIFIED="1587520278243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo3" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1585039147501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$train_lxml__1_.coverage" NAME="train_lxml (1) Coverage Results" MODIFIED="1587797828015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="train_lxml.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learn/Demo6/train_lxml.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="0">
+              <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
               <folding>
                 <element signature="e#17#28#0" expanded="true" />
               </folding>
@@ -64,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="51job_xpath.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="51job_xpath.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learn/Demo6/51job_xpath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="158">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#17#30#0" expanded="true" />
               </folding>
@@ -76,12 +83,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1.lxml.py" pinned="false" current-in-tab="false">
-        <entry file="file://F:/pachong/SZday6/code/1.lxml.py">
+      <file leaf-file-name="xpath_stocktar.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learn/Demo6/xpath_stocktar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="126">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <element signature="e#16#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +98,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Learn/Demo6/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="168">
               <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding />
             </state>
@@ -138,8 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python2code/51job/2.51job.py" />
-        <option value="$PROJECT_DIR$/python2code/51job/geckodriver.log" />
         <option value="F:/爬虫/SZDay1/python2code/51job/3.51jobTest.py" />
         <option value="$PROJECT_DIR$/Learn/Demo1/51jb.py" />
         <option value="$PROJECT_DIR$/Learn/Demo2/train1.py" />
@@ -189,6 +196,8 @@
         <option value="F:/pachong/SZday6/code/1.lxml.py" />
         <option value="$PROJECT_DIR$/Learn/Demo6/train_lxml.py" />
         <option value="$PROJECT_DIR$/Learn/Demo6/51job_xpath.py" />
+        <option value="$PROJECT_DIR$/Learn/Demo6/xpath_stocktar.py" />
+        <option value="$PROJECT_DIR$/知识点.txt" />
       </list>
     </option>
   </component>
@@ -275,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.51job_xpath">
+  <component name="RunManager" selected="Python.xpath_stocktar">
     <configuration name="51job_xpath" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,24 +299,6 @@
       <module name="LearnScrapy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Demo6/51job_xpath.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="tieba" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Demo5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnScrapy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Demo5/tieba.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -366,20 +357,38 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="xpath_stocktar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Demo6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnScrapy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Demo6/xpath_stocktar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.tieba" />
-      <item index="1" class="java.lang.String" itemvalue="Python.train_lxml" />
-      <item index="2" class="java.lang.String" itemvalue="Python.train" />
-      <item index="3" class="java.lang.String" itemvalue="Python.train_lxml (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.51job_xpath" />
+      <item index="0" class="java.lang.String" itemvalue="Python.train_lxml" />
+      <item index="1" class="java.lang.String" itemvalue="Python.train" />
+      <item index="2" class="java.lang.String" itemvalue="Python.train_lxml (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.51job_xpath" />
+      <item index="4" class="java.lang.String" itemvalue="Python.xpath_stocktar" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.51job_xpath" />
-        <item index="1" class="java.lang.String" itemvalue="Python.train_lxml (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.train" />
-        <item index="3" class="java.lang.String" itemvalue="Python.train_lxml" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tieba" />
+        <item index="0" class="java.lang.String" itemvalue="Python.xpath_stocktar" />
+        <item index="1" class="java.lang.String" itemvalue="Python.51job_xpath" />
+        <item index="2" class="java.lang.String" itemvalue="Python.train_lxml (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.train" />
+        <item index="4" class="java.lang.String" itemvalue="Python.train_lxml" />
       </list>
     </recent_temporary>
   </component>
@@ -406,18 +415,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17246597" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32056892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42174628" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40043762" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38074398" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16987179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38056013" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -426,6 +435,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Statistic" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -447,8 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/pachong/SZDay2/python2code/7ajax_douban.py" />
-    <entry file="file://F:/pachong/SZDay2/python2code/10down.py" />
     <entry file="file://$PROJECT_DIR$/Learn/Demo2/1.jpg" />
     <entry file="file://F:/pachong/SZDay3/code/zhaopin/2getworkstr.py" />
     <entry file="file://F:/pachong/SZDay3/code/zhaopin/3.提取表格.py" />
@@ -555,13 +563,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/pachong/SZday5/code/tieba/1tieba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="82" column="55" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/pachong/SZday5/code/tieba/1tieba.py" />
     <entry file="file://$PROJECT_DIR$/constant.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -577,13 +579,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/pachong/SZday5/code/tieba/2.tiebalogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="10" column="89" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/pachong/SZday5/code/tieba/2.tiebalogin.py" />
     <entry file="file://$PROJECT_DIR$/Learn/Demo5/tiebalogin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -593,24 +589,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learn/Demo6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="168">
           <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/pachong/SZday6/code/1.lxml.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://F:/pachong/SZday6/code/1.lxml.py" />
     <entry file="file://$PROJECT_DIR$/Learn/Demo6/train_lxml.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
           <folding>
             <element signature="e#17#28#0" expanded="true" />
           </folding>
@@ -619,10 +608,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Learn/Demo6/51job_xpath.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="158">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#17#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/知识点.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn/Demo6/xpath_stocktar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#16#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
