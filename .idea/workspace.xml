@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999c7991-94b1-4ee4-b9f0-d19b5e34ca97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/54633.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/代理验证.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/提取代理.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/提取网页有效文本.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/2BS4_初级_Tag.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/3BS4_初级_其他类型.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/4BS4遍历文档.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/5.BS4搜索.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/6BS4CSS选择.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/7zhaopin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/8Stock_BS4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/BS4/bs4-base.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/Xpath复习/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo7/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo8/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo8/driver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo8/jd.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo8/loginqqspance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo8/无界面浏览器.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo9/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo9/模拟手机搜索.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo9/模拟手机浏览器.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo9/调用JS.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/6CSDN.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo10/隐藏浏览器.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/constant.py" afterPath="$PROJECT_DIR$/constant.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/知识点.txt" afterPath="$PROJECT_DIR$/知识点.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,14 +65,25 @@
     <SUITE FILE_PATH="coverage/LearnScrapy$loginqqspance.coverage" NAME="loginqqspance Coverage Results" MODIFIED="1588657338546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo8" />
     <SUITE FILE_PATH="coverage/LearnScrapy$2BS4__Tag.coverage" NAME="2BS4_初级_Tag Coverage Results" MODIFIED="1588506588733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo7/BS4" />
     <SUITE FILE_PATH="coverage/LearnScrapy$5_BS4.coverage" NAME="5.BS4搜索 Coverage Results" MODIFIED="1588641593476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo7/BS4" />
-    <SUITE FILE_PATH="coverage/LearnScrapy$.coverage" NAME="代理验证 Coverage Results" MODIFIED="1588678479002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo10" />
+    <SUITE FILE_PATH="coverage/LearnScrapy$.coverage" NAME="隐藏浏览器 Coverage Results" MODIFIED="1588681305588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo10" />
     <SUITE FILE_PATH="coverage/LearnScrapy$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1587116346610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo2" />
     <SUITE FILE_PATH="coverage/LearnScrapy$train.coverage" NAME="train Coverage Results" MODIFIED="1587797675039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo6" />
     <SUITE FILE_PATH="coverage/LearnScrapy$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1585038664694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Book1" />
     <SUITE FILE_PATH="coverage/LearnScrapy$login_qq_spance.coverage" NAME="login_qq_spance Coverage Results" MODIFIED="1588654606766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Learn/Demo8" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="隐藏浏览器.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learn/Demo10/隐藏浏览器.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -140,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Learn/Demo3/memcached.py" />
-        <option value="$PROJECT_DIR$/Learn/Demo3/cached.py" />
         <option value="$PROJECT_DIR$/Learn/Demo3/decms.py" />
         <option value="$PROJECT_DIR$/Learn/Demo4/huitu.py" />
         <option value="$PROJECT_DIR$/Learn/Demo3/zhaopin.py" />
@@ -191,6 +175,8 @@
         <option value="$PROJECT_DIR$/Learn/Demo10/提取网页有效文本.py" />
         <option value="$PROJECT_DIR$/Learn/Demo10/提取代理.py" />
         <option value="$PROJECT_DIR$/Learn/Demo10/代理验证.py" />
+        <option value="$PROJECT_DIR$/Learn/Demo10/6CSDN.py" />
+        <option value="$PROJECT_DIR$/Learn/Demo10/隐藏浏览器.py" />
       </list>
     </option>
   </component>
@@ -278,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.代理验证">
+  <component name="RunManager" selected="Python.隐藏浏览器">
     <configuration name="代理验证" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -297,20 +283,20 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="模拟手机搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="隐藏浏览器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Demo9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn/Demo10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnScrapy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Demo9/模拟手机搜索.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn/Demo10/隐藏浏览器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -370,24 +356,27 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.模拟手机搜索" />
-      <item index="1" class="java.lang.String" itemvalue="Python.调用JS" />
-      <item index="2" class="java.lang.String" itemvalue="Python.提取网页有效文本" />
-      <item index="3" class="java.lang.String" itemvalue="Python.提取代理" />
-      <item index="4" class="java.lang.String" itemvalue="Python.代理验证" />
+      <item index="0" class="java.lang.String" itemvalue="Python.调用JS" />
+      <item index="1" class="java.lang.String" itemvalue="Python.提取网页有效文本" />
+      <item index="2" class="java.lang.String" itemvalue="Python.提取代理" />
+      <item index="3" class="java.lang.String" itemvalue="Python.代理验证" />
+      <item index="4" class="java.lang.String" itemvalue="Python.隐藏浏览器" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.代理验证" />
-        <item index="1" class="java.lang.String" itemvalue="Python.提取代理" />
-        <item index="2" class="java.lang.String" itemvalue="Python.提取网页有效文本" />
-        <item index="3" class="java.lang.String" itemvalue="Python.调用JS" />
-        <item index="4" class="java.lang.String" itemvalue="Python.模拟手机搜索" />
+        <item index="0" class="java.lang.String" itemvalue="Python.隐藏浏览器" />
+        <item index="1" class="java.lang.String" itemvalue="Python.代理验证" />
+        <item index="2" class="java.lang.String" itemvalue="Python.提取代理" />
+        <item index="3" class="java.lang.String" itemvalue="Python.提取网页有效文本" />
+        <item index="4" class="java.lang.String" itemvalue="Python.调用JS" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -410,8 +399,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16641453" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -450,14 +440,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Learn/Demo5/tieba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://F:/pachong/SZday5/code/tieba/2.tiebalogin.py" />
     <entry file="file://$PROJECT_DIR$/Learn/Demo5/tiebalogin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -793,6 +775,22 @@
           <folding>
             <element signature="e#16#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn/Demo10/6CSDN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn/Demo10/隐藏浏览器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
