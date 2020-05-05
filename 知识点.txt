@@ -1,1 +1,5 @@
+爬取非中文数据python2
+爬取中文数据python3
+urlopen只能处理http
+VPS 秒换ip
 import ssl   ssl._create_unverified_context()  # 忽略安全 https
