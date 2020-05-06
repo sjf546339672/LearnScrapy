@@ -3,3 +3,5 @@
 urlopen只能处理http
 VPS 秒换ip
 import ssl   ssl._create_unverified_context()  # 忽略安全 https
+selenium  验证码 模拟登陆不需要加密
+requests urllib2 只能处理非加密的post，速度快，局限性大
