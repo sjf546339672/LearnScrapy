@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="999c7991-94b1-4ee4-b9f0-d19b5e34ca97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/zzz.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/Demo26/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Learn/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -182,9 +182,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="551" />
+    <option name="x" value="80" />
+    <option name="y" value="35" />
     <option name="width" value="1380" />
-    <option name="height" value="744" />
+    <option name="height" value="603" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,6 +217,12 @@
               <item name="LearnScrapy" type="462c0819:PsiDirectoryNode" />
               <item name="Learn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LearnScrapy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnScrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo26" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -225,7 +232,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Upatch-tool" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Check-Host" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$" />
@@ -233,11 +240,12 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/爬虫/SZday7/BS4/5.BS4搜索.py" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\demo\MyProject\LearnScrapy" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\demo\MyProject\LearnScrapy\Learn\Demo2\yanzhengma" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Myproject\LearnScrapy\Learn" />
+      <recent name="E:\demo\MyProject\LearnScrapy" />
     </key>
   </component>
   <component name="RunDashboard">
