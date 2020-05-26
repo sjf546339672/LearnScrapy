@@ -12,7 +12,7 @@ class DouyuzhiboItem(scrapy.Item):
     # define the fields for your item here like:
     name = scrapy.Field()
     image_src = scrapy.Field()
-    image_path = scrapy.Field()
+    # image_path = scrapy.Field()
 
 
 
