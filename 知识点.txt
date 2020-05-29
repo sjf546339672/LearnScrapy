@@ -90,3 +90,30 @@ B：迭代器源码解析
     3.查看返回值类型是new Itr(),说明Itr这个类实现Iterator接口
     4.查找Itr这个内部类,发现重写了Iterator中的所有抽象方法
 
+十五、查看列表的内存地址：
+id(list)
+
+
+十六、列表如何乱序
+random.shuffle(list)
+
+
+十七、Python字符串如何动态加载模块
+不确定  import  __import__(string)
+
+
+十八、__init__.py文件的作用
+如果目录中存在该文件就会被识别为模块包
+
+
+十九、基础类object的方法和属性有哪些（Object的的方法和属性）
+__str__()  __repr__()  __reduce__()  __init__() __dir__() __eq__() __format__()
+
+
+二十、代理ip如何使用的
+px = request.ProxyHandler({"http": "1.1.1.1"})
+opener = request.build_opener(px)  # build_opener()来构建一个opener对象
+req = request.Request("网址")
+resp = opener.open(req)  # 调用构建好的opener对象里面的open方法来发生请求。实际上urlopen也是类似这样使用内部定义好的opener.open()，这里就相当于我们自己重写
+request.install_opener(opener)  # 自定义的opener设置成全局的
+

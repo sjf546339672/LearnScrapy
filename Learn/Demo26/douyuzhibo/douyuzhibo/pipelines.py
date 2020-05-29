@@ -15,6 +15,5 @@ class DouyuzhiboPipeline:
         if "dy1" in item["image_src"]:
             urllib.request.urlretrieve(item["image_src"], "E:\AllProject\MyProject\LearnScrapy\Learn\Demo26\douyuzhibo\douyuzhibo\pic\\" + templist[len(templist) - 2])
         else:
-            print("--------------------->>>", templist[len(templist) - 1])
             urllib.request.urlretrieve(item["image_src"], "E:\AllProject\MyProject\LearnScrapy\Learn\Demo26\douyuzhibo\douyuzhibo\pic\\" + templist[len(templist) - 1])
         return item
