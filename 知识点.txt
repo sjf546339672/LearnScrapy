@@ -117,3 +117,8 @@ req = request.Request("网址")
 resp = opener.open(req)  # 调用构建好的opener对象里面的open方法来发生请求。实际上urlopen也是类似这样使用内部定义好的opener.open()，这里就相当于我们自己重写
 request.install_opener(opener)  # 自定义的opener设置成全局的
 
+二十一、# Pipeline的作用
+1.清洗数据
+2.验证数据的有效性
+3.过滤掉重复的数据
+4.将数据存入数据库
