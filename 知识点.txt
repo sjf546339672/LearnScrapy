@@ -136,3 +136,5 @@ request.install_opener(opener)  # 自定义的opener设置成全局的
 
 
 https://www.bilibili.com/video/BV1Rg4y1i7AG
+
+https://github.com/lrq154439/CrawlWeb
