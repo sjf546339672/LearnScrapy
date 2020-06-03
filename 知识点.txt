@@ -6,6 +6,7 @@
 六、selenium  验证码 模拟登陆不需要加密
 七、requests urllib2 只能处理非加密的post，速度快，局限性大
 
+
 八、mysql的引擎:
 （1）：MyISAM存储引擎
 不支持事务、也不支持外键，优势是访问速度快，对事务完整性没有 要求或者以select，insert为主的应用基本上可以用这个引擎来创建表
@@ -40,7 +41,7 @@ Merge存储引擎是一组MyISAM表的组合，这些MyISAM表必须结构完全
 更新，删除操作，这些操作实际上是对内部的MyISAM表进行的。
 
 九、redis的数据类型:
-    Redis支持五种数据类型string（字符串）,list（列表）,set（集合）及zset(sorted set：有序集合), hash（哈希）
+    Redis支持五种数据类型string（字符串）,list（列表）,set（集合）及zset(sorted set：有序集合, 通过权重进行排序), hash（哈希）
 
 十、redis的四大特性:
 事物的四大特性：（ACID）
@@ -61,7 +62,17 @@ Merge存储引擎是一组MyISAM表的组合，这些MyISAM表必须结构完全
 
 十一、懒加载:
 
-十二、装饰器:
+十二、装饰器: 就是为已经存在的函数或者对象添加额外的功能
+def test(func):
+    def wrapper(*args, **kwargs):
+        print("Yes, you are good")
+        func(*args, **kwargs)
+    return wrapper
+@test
+def say(param):
+    print("hello {}".format(param))
+say("Bob")
+
 
 十三、with上下文管理器的两个方法:
 是不是发现使用with语句相对try/finally来说简洁了很多，而且也不需要每一个用户都去写f.close()来关闭文件了，
@@ -122,3 +133,6 @@ request.install_opener(opener)  # 自定义的opener设置成全局的
 2.验证数据的有效性
 3.过滤掉重复的数据
 4.将数据存入数据库
+
+
+https://www.bilibili.com/video/BV1Rg4y1i7AG
